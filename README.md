@@ -12,7 +12,13 @@ Secondly,  Show_menu() performs 4 types actions. if the user enters 1 -> It disp
 
 
 Video Link:
-https://www.youtube.com/embed/h-7qBLrXoOI 
+https://www.youtube.com/embed/h-7qBLrXoOI  
+
+Referred Links: 
+Link1:https://en.m.wikipedia.org/wiki/List_of_current_Indian_chief_ministers
+Link2:https://www.india.gov.in/my-government/whos-who/governors
+Link3:https://www.careerpower.in/states-and-capitals-of-india.html
+
 
 Block Diagram:
 ![IMG_20201018_171525 (1)](https://user-images.githubusercontent.com/68633587/96366619-42346b00-1166-11eb-90df-81d81faa4cf6.jpg) 
